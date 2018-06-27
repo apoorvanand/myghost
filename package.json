@@ -92,12 +92,12 @@
     "semver": "5.5.0",
     "simple-dom": "0.3.2",
     "simple-html-tokenizer": "0.5.5",
+    "sqlite3": "^4.0.1",
     "superagent": "3.8.3",
     "unidecode": "0.1.8",
     "uuid": "3.2.1",
     "validator": "6.3.0",
-    "xml": "1.0.1",
-    "sqlite3": "^4.0.1"
+    "xml": "1.0.1"
   },
   "devDependencies": {
     "eslint": "4.19.1",
